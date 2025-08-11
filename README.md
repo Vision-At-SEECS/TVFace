@@ -7,7 +7,7 @@
 
 [Research Paper](https://doi.org/10.1007/s10044-025-01464-3) · [Dataset (Google Drive)](https://drive.google.com/drive/folders/1GBJs96fE6qbef8VGurz4q3DvN4s_pXDw?usp=sharing)
 
-[![License](https://img.shields.io/badge/License-CC_BY_NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License](https://img.shields.io/badge/License-CC_BY_NC_4.0-lightgrey.svg)](https://github.com/Vision-At-SEECS/TVFace/edit/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.1007/s10044-025-01464-3.svg)](https://doi.org/10.1007/s10044-025-01464-3)
 
 <p align="center">
