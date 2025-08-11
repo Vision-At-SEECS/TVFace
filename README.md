@@ -373,7 +373,7 @@ If you use TVFace in your research, please cite:
 
 ## License
 
-This dataset is released under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+This dataset is released under the [MIT License](https://github.com/Vision-At-SEECS/TVFace/edit/main/LICENSE).
 
 ## Contact
 
